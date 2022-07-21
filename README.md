@@ -1,0 +1,2 @@
+# curio
+an internship portal
